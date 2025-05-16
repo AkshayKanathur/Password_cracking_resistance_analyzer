@@ -1,4 +1,4 @@
-# Password Strength Checker
+# Password Cracking Resistance Analyzer
 
 A simple web application to check the strength of a password.
 

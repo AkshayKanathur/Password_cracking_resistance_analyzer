@@ -1,6 +1,6 @@
 # Password Cracking Resistance Analyzer
 
-A simple web application to check the strength of a password.
+A web application to check the strength of a password.
 
 ## Features
 

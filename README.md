@@ -9,6 +9,13 @@ A web application to check the strength of a password.
 * Analyzes password strength using zxcvbn
 * Checks if the password has been leaked in data breaches using Have I Been Pwned API
 
+## Screenshots
+
+![Screenshot 2025-05-21 132203](https://github.com/user-attachments/assets/d1c3ec4d-5be5-4fcf-850d-0065a4da9cd5)
+![Screenshot 2025-05-21 132134](https://github.com/user-attachments/assets/c225ec13-04c3-473a-9ded-73e09daacce2)
+![Screenshot 2025-05-21 132116](https://github.com/user-attachments/assets/c821b417-192d-40e9-88f4-2846102891af)
+
+
 ## Usage
 
 1. Install dependencies: `npm install`
